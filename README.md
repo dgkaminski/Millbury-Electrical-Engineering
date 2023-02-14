@@ -9,6 +9,6 @@ If you're on a chromebook download the extension here: https://chrome.google.com
 
 You're ready to code!
 
-Go to this website to access the online edit: 
+Go to this website to access the online editor: https://create.arduino.cc/editor
 
 *Keep in mind, you're limited to compiling 25 programs a day, so try to check the code with me before compliling it.*
