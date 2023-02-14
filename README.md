@@ -11,4 +11,4 @@ You're ready to code!
 
 Go to this website to access the online edit: 
 
-*Keep in mind, you're limited to compiling 25 programs a day, so try to check the code with me before compliling it.
+*Keep in mind, you're limited to compiling 25 programs a day, so try to check the code with me before compliling it.*
