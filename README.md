@@ -11,7 +11,7 @@ You're ready to code!
 
 Go to this website to access the online editor: https://create.arduino.cc/editor
 
-*Keep in mind, you're limited to compiling 25 programs a day, so try to check the code with me before compliling it.*
+*Keep in mind, you're limited to compiling 25 programs a day, so try to check the code with me before compiling it.*
 
 Lesson 1: Basics of Arduinos, Using an LED activated by a button to send a Morse Code signal
 
