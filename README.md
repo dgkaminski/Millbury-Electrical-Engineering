@@ -15,6 +15,6 @@ Go to this website to access the online editor: https://create.arduino.cc/editor
 
 Lesson 1: Basics of Arduinos, Using an LED activated by a button to send a Morse Code signal
 
-Lesson 2: Arduino Programming and Using Devices, using passive buzzers and generating analog signals
+Lesson 2: Arduino Programming and Using Devices, Using passive buzzers and generating analog signals
 
 Lesson 3: Using Complex Devices, Sending a message to an OLED display, and playing music on a buzzer
