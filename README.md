@@ -13,7 +13,7 @@ Go to this website to access the online editor: https://create.arduino.cc/editor
 
 *Keep in mind, you're limited to compiling 25 programs a day, so try to check the code with me before compliling it.*
 
-Lesson 1: Basics of Arduinos, Using an LED activated by a button to send a Morse Code Signal
+Lesson 1: Basics of Arduinos, Using an LED activated by a button to send a Morse Code signal
 
 Lesson 2: Arduino Programming and Using Devices, using passive buzzers and generating analog signals
 
