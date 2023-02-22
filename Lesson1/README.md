@@ -1,11 +1,11 @@
 This document explains what each folder and file does:
 
--ActiveBuzzer-Songs contains the code for several songs to be played
-     HappyBirthday plays the happy birthday song
-     HarryPotter plays the Harry Potter theme
-     NokiaRingtone plays the default Nokia ringtone
-     NokiaRingtone-Button plays the default Nokia ringtone when a button is pressed
-     SimpleScale plays an ascending C major scale
+-ActiveBuzzer-Songs contains the code for several songs to be played  
+     HappyBirthday plays the happy birthday song  
+     HarryPotter plays the Harry Potter theme  
+     NokiaRingtone plays the default Nokia ringtone  
+     NokiaRingtone-Button plays the default Nokia ringtone when a button is pressed  
+     SimpleScale plays an ascending C major scale  
 
 -Blink is the default test for an Arduino and will simply blink the built in LED
 
