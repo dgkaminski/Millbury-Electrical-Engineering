@@ -33,7 +33,7 @@ void loop() {
 
   if (buttonRead == LOW) {
 
-    tone(OUTPUT_PIN, 262)
+    tone(OUTPUT_PIN, 262);
 
   }
 

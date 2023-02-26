@@ -21,6 +21,7 @@ const int OUTPUT_PIN = 8;  //This is the pin where the output into the LED goes
 
 int buttonRead = 0;  //This variable allows us to store whether the button is pressed or not
 
+double speedFactor = 5.0; //This variable controls how long your message is. The higher this number, the longer each tone is.
 
 /* 
 
@@ -85,12 +86,14 @@ void loop() {
       int noteDuration = 1000 / noteDurations[thisNote];
 
       if (noteDurations[thisNote] == 4 || noteDurations[thisNote] == 12) { //This plays only if the length of the note is the length of one of the sounds
-        tone(OUTPUT_PIN, 262, noteDuration); //outputs a middle C/C4 for the indicated length
+        tone(OUTPUT_PIN, 262); //outputs a middle C/C4 for the indicated length
+        delay(1000/noteDurations[thisNote]*speedFactor);
+        noTone(OUTPUT_PIN);
       }
 
       else { //If the length of the note is NOT one of the ones recognized as a buzz
         noTone(OUTPUT_PIN); 
-        delay(noteDuration);
+        delay(1000/noteDurations[thisNote]*speedFactor);
       }
     }
   } else {
