@@ -13,8 +13,10 @@ Go to this website to access the online editor: https://create.arduino.cc/editor
 
 *Keep in mind, you're limited to compiling 25 programs a day, so try to check the code with me before compilling it.*
 
-Lesson 1: Basics of Arduinos, Using an LED activated by a button to send a Morse Code signal
+Lesson 1: Basics of Arduinos, Using a buzzer activated by a button (or with code) to send a Morse Code signal
 
-Lesson 2: Arduino Programming and Using Devices, Using passive buzzers and generating analog signals
+Lesson 2: Arduino Programming and Using Devices, Using LEDs and learning about PWM signals
 
 Lesson 3: Using Complex Devices, Sending a message to an OLED display, and playing music on a buzzer
+
+Lesson 4: Experimenting with more complex devices, using any number of the 37 sensors and example code, reading code
