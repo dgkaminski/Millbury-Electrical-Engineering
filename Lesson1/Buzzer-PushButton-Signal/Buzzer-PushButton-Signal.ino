@@ -21,7 +21,7 @@ const int OUTPUT_PIN = 8;  //This is the pin where the output into the LED goes
 
 int buttonRead = 0;  //This variable allows us to store whether the button is pressed or not
 
-double speedFactor = 5.0; //This variable controls how long your message is. The higher this number, the longer each tone is.
+double speedFactor = 2.0; //This variable controls how long your message is. The higher this number, the longer each tone is.
 
 /* 
 
