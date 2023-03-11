@@ -10,7 +10,7 @@ const double voltage = 3.0;  //This is the max voltage that the LEDs need
 
 const int MAX_PWM = (int)(voltage * 51);  //This is because the voltage that you want is (voltage)*255/5 for a PWM Arduino signal, or just (voltage)*51
 
-const int delay_time = 3; //How much time in milliseconds it is between each change in LED brightness
+const int delay_time = 1; //How much time in milliseconds it is between each change in LED brightness
 
 void setup() {
 

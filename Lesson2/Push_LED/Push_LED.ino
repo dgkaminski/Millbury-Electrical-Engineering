@@ -1,8 +1,8 @@
 
-const int INPUT_PIN = 8; //This is the pin where the input signal from the button goes
+const int INPUT_PIN = 3; //This is the pin where the input signal from the button goes
 //This is actually a *digital* input pin
 
-const int OUTPUT_PIN = 3; //This is the pin where the output into the LED goes
+const int OUTPUT_PIN = 8; //This is the pin where the output into the LED goes
 //This is actually an *analog* write pin
 
 int buttonRead = 0; //This variable allows us to store whether the button is pressed or not
