@@ -27,7 +27,7 @@ int y_pixels = 32;
 int paddle_height = 10;
 int paddle_width = 3;
 
-int speakerPin = 8;
+int speakerPin = 6;
 
 #include <SPI.h>
 #include <Wire.h>
